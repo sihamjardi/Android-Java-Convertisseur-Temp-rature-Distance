@@ -10,7 +10,7 @@
 
 **Fonctionnalités supplémentaires :**
 
- Afficher un menu Quitter
+ Button Quitter
 
 ---
 
@@ -103,6 +103,7 @@ https://github.com/user-attachments/assets/4e47bce0-f9d3-4fea-a453-e43945640d7f
 ## Structure
 
 <img width="247" height="405" alt="image" src="https://github.com/user-attachments/assets/0b1fa526-88d3-4ddc-8678-04dc3e938a45" />
+
 
 
 
